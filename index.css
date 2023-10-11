@@ -1,0 +1,27 @@
+body{
+    width: auto;
+    padding: 0 100px 0 100px;
+ 
+  
+}
+nav{
+    display: flex;   
+    border:5px solid red;
+
+}
+li{
+    border: black solid 1px;
+    list-style: none;  
+}
+.items{
+    padding-right: 30px;
+
+}
+
+.logo{
+    margin-right: auto;
+
+}
+
+
+
