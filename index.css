@@ -24,4 +24,10 @@ li{
 }
 
 
+img{
+    border: blue solid 5px;
+    width: 50%;
+    height: 100%;
+   
 
+}
