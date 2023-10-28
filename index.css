@@ -1,6 +1,7 @@
 body{
     width: auto;
     padding: 0 100px 0 100px;
+    background-color: #1F2937;
  
   
 }
@@ -20,14 +21,17 @@ li{
 
 .logo{
     margin-right: auto;
+    color: #f9faf8;
+    font-size: 24px;
+
 
 }
 
 
 img{
     border: blue solid 5px;
-    width: 50%;
-    height: 100%;
+    width: auto;
+    height: auto;
    
 
 }
@@ -42,7 +46,17 @@ button{
 .hero{
     display: flex;
     border: pink solid 5px;
+  
 }
 
+h1{
+    color:#f9faf8;
+    font-size: 48px;
+}
+
+.p1{
+    font-size: 18px; 
+    color: #e5e7eb;
+}
 
 
