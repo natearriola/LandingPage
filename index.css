@@ -1,9 +1,11 @@
 html{
     display: table;
     margin: auto;
+
 }
 body{
     width: auto;
+    height: 100%;
     display: table-cell;
     vertical-align: middle;
     background-color: #1F2937;
@@ -72,13 +74,53 @@ p{
     color:#f9faf8;
     color: #e5e7eb;
 }
-
 .mainCards{
     display: flex;
+    border: 5px black solid;
+    padding: 100px;
+    justify-content: center;
+ 
 }
+
+
+
 .Card {
-    margin: 10px;
+    text-align: center;
+    border: 5px white solid;
+    height: 100%;
+    padding: 10px;
+
 }
+.test{
+   background-color: #e5e7eb;
+    border:  5px red solid;
+
+}
+
+.q{
+    color: #1f2937;
+ 
+
+}
+
+
+.passage{
+
+    padding: 100px 500px 0 500px;
+    text-align: left;
+    font-size: 36px;
+
+}
+
+.author{
+    font-style: bold;
+    text-align: right;
+    padding: 0 500px 0 0;
+    
+
+
+}
+
 
 
 
